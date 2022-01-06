@@ -177,22 +177,25 @@ h2{
  }
  .open-account h3{
     font-size: 35px;
-    text-align: center;
     color: orangered;
  }
  .open-account img{
      width: 40%;
-     padding-left: 300px;
+     padding-left: 200px;
  }
  #footer{
-     border: 20px 15px solid black;
+     border-style:solid;
+     border-color: black;
+     background-color: brown;
+     
  }
- h3{
-     color: black;
+
+ #footer-h3{
+     color:white;
      text-align: center;
  }
  h3 span{
-     color: orangered;
+     color:orange;
  }
  h6{
      text-align: center;
